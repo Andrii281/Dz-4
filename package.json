@@ -1,0 +1,19 @@
+{
+  "name": "webpack_prog",
+  "version": "1.0.0",
+  "description": "webpack practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrii281/Dz.git"
+  },
+  "author": "Andrii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrii281/Dz/issues"
+  },
+  "homepage": "https://github.com/Andrii281/Dz#readme"
+}
